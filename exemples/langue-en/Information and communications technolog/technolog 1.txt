@@ -1,0 +1,24 @@
+Information and communications technology (ICT) is an extended term for information technology (IT) which stresses the role of unified communications[1] and the integration of telecommunications (telephone lines and wireless signals), computers as well as necessary enterprise software, middleware, storage, and audio-visual systems, which enable users to access, store, transmit, and manipulate information.[2]
+
+The term ICT is also used to refer to the convergence of audio-visual and telephone networks with computer networks through a single cabling or link system. There are large economic incentives (huge cost savings due to elimination of the telephone network) to merge the telephone network with the computer network system using a single unified system of cabling, signal distribution and management.
+
+However, ICT has no universal definition, as "the concepts, methods and applications involved in ICT are constantly evolving on an almost daily basis."[3] The broadness of ICT covers any product that will store, retrieve, manipulate, transmit or receive information electronically in a digital form, e.g. personal computers, digital television, email, robots. For clarity, Zuppo provided an ICT hierarchy where all levels of the hierarchy "contain some degree of commonality in that they are related to technologies that facilitate the transfer of information and various types of electronically mediated communications".[4] Skills Framework for the Information Age is one of many models for describing and managing competencies for ICT professionals for the 21st century.[5]
+
+Etymology
+
+The phrase information and communication technology has been used by academic researchers since the 1980s,[6] and the abbreviation ICT became popular after it was used in a report to the UK government by Dennis Stevenson in 1997,[7] and in the revised National Curriculum for England, Wales and Northern Ireland in 2000. But in 2012, the Royal Society recommended that ICT should no longer be used in British schools "as it has attracted too many negative connotations",[8] and with effect from 2014 the National Curriculum uses the word computing, which reflects the addition of computer programming into the curriculum.[9]
+
+Variations of the phrase have spread worldwide, with the United Nations creating a "United Nations Information and Communication Technologies Task Force" and an internal "Office of Information and Communications Technology".
+
+Monetization
+
+The money spent on IT worldwide has been most recently estimated as US $3.5 trillion and is currently growing at 5% per year, doubling every 15 years.[11] The 2014 IT budget of US federal government is nearly $82 billion.[12] IT costs, as a percentage of corporate revenue, have grown 50% since 2002, putting a strain on IT budgets. When looking at current companies' IT budgets, 75% are recurrent costs, used to “keep the lights on” in the IT department, and 25% are cost of new initiatives for technology development.[11]
+
+The average IT budget has the following breakdown:[11]
+
+    31% personnel costs (internal)
+    29% software costs (external/purchasing category)
+    26% hardware costs (external/purchasing category)
+    14% costs of external service providers (external/services).
+Technological capacity
+The world's technological capacity to store information grew from 2.6 (optimally compressed) exabytes in 1986 to 15.8 in 1993, over 54.5 in 2000, and to 295 (optimally compressed) exabytes in 2007, and some 5 zettabytes in 2014.[13][14] This is the informational equivalent to 1.25 stacks of CD-ROM from the earth to the moon in 2007, and the equivalent of 4,500 stacks of printed books from the earth to the sun in 2014. The world's technological capacity to receive information through one-way broadcast networks was 432 exabytes of (optimally compressed) information in 1986, 715 (optimally compressed) exabytes in 1993, 1.2 (optimally compressed) zettabytes in 2000, and 1.9 zettabytes in 2007.[13] The world's effective capacity to exchange information through two-way telecommunication networks was 281 petabytes of (optimally compressed) information in 1986, 471 petabytes in 1993, 2.2 (optimally compressed) exabytes in 2000, 65 (optimally compressed) exabytes in 2007,[13] The world's technological capacity to compute information with humanly guided general-purpose computers grew from 3.0 × 10^8 MIPS in 1986, to 6.4 x 10^12 MIPS in 2007.[13] and some 100 exabytes in 2014.

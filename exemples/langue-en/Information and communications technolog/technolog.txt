@@ -1,0 +1,21 @@
+ICT essentials for rebuilding fragile states
+Enabling a robust market for information and communications technologies (ICTs) is fundamental to rebuilding fragile and conflict affected states (FCSs) and addressing the human suffering. As I have explained elsewhere, ICTs are critical because they can be used to alert people to renewed violence, build community, restart the economy, and facilitate relief efforts. The critical strategies that enable ICTs are protection of property rights and minimal barriers to competition.
+ 
+South Sudan provides examples of the importance of ICT. Whitaker Peace & Development Initiative’s Youth Peacemaker Network tells the stories of John from Twic East Country whose life was spared by a phone call warning of an impending attack, and of Gai Awan, Artha Akoo Kaka, and Moga Martin from Numule whose ICT trainings opened employment and education opportunities. The United Nations High Commissioner for Refugees (UNHCR) explains how ICT can help protect refugees: Biometrics enabled Housna Ali Kuku, a single mother of four, to obtain precisely scheduled treatments for her respiratory tract infection and for her children. GPS is used to identify sources of diseases and to track their spread.
+ 
+A World Bank study by Tim Kelly and David Souter identified five themes in post-conflict recovery and how ICT plays critical roles. 
+
+     Stabilization: it is important at the start to establish physical security and government institutions that both citizens and potential investors trust. ICT enables automation of services, including security services. In South Sudan, for example, crowd-sourced ICT-enabled early warning mechanisms helped mitigate threats even though deliberate misreporting of incidents weakened the system.
+
+    Infrastructure: faith in reconstruction often depends upon the rapid restoration of physical infrastructures for power, communications, transport, health, etc. Building mobile networks can be done relatively quickly, demonstrating a stabilizing business environment and lowering costs for other infrastructures, relief services, and development. For example, mobile subscription in Afghanistan grew from 6.3 to 63.3 per 100 persons from 2006 to 2012, and internet users grew from 200,000 to over 1 million during the same time period. Sim card prices fell from $250 to $1 from 2002 to 2012.
+
+    Reconciliation: mutual confidence that violence will not return must be built throughout the complex webs of relationships between perpetrators and victims of violence. About 40 countries have followed South Africa’s Truth and Reconciliation Commission model, for which ICT enables transparency and expands access.
+
+    Public engagement: ICTs widen access to public fora, promote diversity of voice, protect anonymity (if required), and enable electoral politics. As experiences in Rwanda (Radio Mille Collines fostered genocide) and Afghanistan (warlords sponsor radio stations) demonstrate, one-way media can be easily used to incite violence. Social media and interactive web platforms become important for vulnerable groups to protect themselves.
+
+    Development: conflict undermines economic growth, destroys economic assets and capabilities, and drives capital and skilled people from FCSs. Rwanda has shown that ICT enables capital transfers, mobile money, return of emigrants, and new business development.
+
+What are the essential features of an effective ICT strategy? Market liberalization is critical as it incents ICT expansion. Research from the International Institute for Peace highlights how top-down control of ICTs in Kenya weakened its conflict early warning system and how disabling web access and mobile networks hindered the responders to violence more than the perpetrators in the Kyrgyz Republic.
+ 
+Essential for investment and competition is an effective regulatory system that is adapted to the situation and that ensures the protection of property rights and competition. Especially in a fragile state context, investors face a high risk that struggles for power will result in confiscation or destruction of equipment.
+

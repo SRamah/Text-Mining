@@ -1,0 +1,10 @@
+Une borne Wi-Fi, ou un point Wi-Fi, ou un hotspot, est un matériel qui donne accès à un réseau sans fil Wi-Fi permettant aux utilisateurs de terminaux mobiles de se connecter à Internet. L'accès ainsi fourni peut être gratuit ou payant pour l'utilisateur.
+
+Des annuaires de zones d'accès sans fil sont disponibles en ligne afin de faciliter la recherche de ces matériels partout dans le monde.
+
+Le premier point Wi-Fi fut présenté pour la première fois par Brett Stewart à la conférence NetWorld+Interop au Moscone Center à San Francisco en août 1993. À l'époque, Stewart parlait non pas de hotspot mais d'accès public sans fil à des LANs (réseaux locaux). Par la suite, en 1994, il fonda la société PLANCOM (pour Public LAN Communications).
+
+En 2012, l'emploi d'êtres humains SDF comme bornes mobiles Wi-Fi pour le festival SXSW de Austin (Texas) soulève la polémique.
+
+Wi-Fi partagé
+Certains opérateurs proposent à leurs clients une connexion Wi-Fi avec un identifiant et un mot de passe, sous réserve d’être situé dans une zone d'un rayon de 50 mètres environ autour d'une box de l’opérateur. On dit que l'utilisateur principal de cette dernière box partage son point d'accès avec les autres clients du même opérateur passant à proximité de sa box.

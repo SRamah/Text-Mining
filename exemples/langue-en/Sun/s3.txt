@@ -1,0 +1,12 @@
+Composition
+See also: Molecules in stars
+
+The Sun is composed primarily of the chemical elements hydrogen and helium; they account for 74.9% and 23.8% of the mass of the Sun in the photosphere, respectively.[53] All heavier elements, called metals in astronomy, account for less than 2% of the mass, with oxygen (roughly 1% of the Sun's mass), carbon (0.3%), neon (0.2%), and iron (0.2%) being the most abundant.[54]
+
+The Sun inherited its chemical composition from the interstellar medium out of which it formed. The hydrogen and helium in the Sun were produced by Big Bang nucleosynthesis, and the heavier elements were produced by stellar nucleosynthesis in generations of stars that completed their stellar evolution and returned their material to the interstellar medium before the formation of the Sun.[55] The chemical composition of the photosphere is normally considered representative of the composition of the primordial Solar System.[56] However, since the Sun formed, some of the helium and heavy elements have gravitationally settled from the photosphere. Therefore, in today's photosphere the helium fraction is reduced, and the metallicity is only 84% of what it was in the protostellar phase (before nuclear fusion in the core started). The protostellar Sun's composition is believed to have been 71.1% hydrogen, 27.4% helium, and 1.5% heavier elements.[53]
+
+Today, nuclear fusion in the Sun's core has modified the composition by converting hydrogen into helium, so the innermost portion of the Sun is now roughly 60% helium, with the abundance of heavier elements unchanged. Because heat is transferred from the Sun's core by radiation rather than by convection (see Radiative zone below), none of the fusion products from the core have risen to the photosphere.[57]
+
+The reactive core zone of "hydrogen burning", where hydrogen is converted into helium, is starting to surround an inner core of "helium ash". This development will continue and will eventually cause the Sun to leave the main sequence, to become a red giant.[58]
+
+The solar heavy-element abundances described above are typically measured both using spectroscopy of the Sun's photosphere and by measuring abundances in meteorites that have never been heated to melting temperatures. These meteorites are thought to retain the composition of the protostellar Sun and are thus not affected by settling of heavy elements. The two methods generally agree well.

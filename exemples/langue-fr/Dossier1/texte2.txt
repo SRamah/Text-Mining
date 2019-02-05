@@ -1,0 +1,6 @@
+/* Le lecteur désireux de tester le présent programme dans un environnement 
+Windows doit préalablement télécharger sur le site des éditions Technip :
+- le fichier compressé "base_assurance.zip" contenant la table SAS
+"assurancetic.sas7bdat"
+- le fichier compressé "analyse_donnees.zip" contenant le catalogue
+de macros SAS "sasmacr.sas7bcat".

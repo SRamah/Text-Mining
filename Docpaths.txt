@@ -1,0 +1,9 @@
+3
+5
+/Users/salaheddine/NetBeansProjects/TexteMining/./exemples/classification_non_superviser/A1/Audi 1.txt
+/Users/salaheddine/NetBeansProjects/TexteMining/./exemples/classification_non_superviser/A1/Audi 2.txt
+/Users/salaheddine/NetBeansProjects/TexteMining/./exemples/classification_non_superviser/A1/audi 3.txt
+4
+/Users/salaheddine/NetBeansProjects/TexteMining/./exemples/classification_non_superviser/w1/wifi 1.txt
+/Users/salaheddine/NetBeansProjects/TexteMining/./exemples/classification_non_superviser/w1/wifi 2.txt
+2
