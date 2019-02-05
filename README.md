@@ -6,3 +6,6 @@ High-quality information is typically derived through the devising of patterns a
 # About
 In this project, I deal with corpuses of different languages such as documents in English, French and Arabic.
 I am trying to create homogeneous clusters that combine documents dealing with the same topics using supervised (K-Means, CAH) and unsupervised (NB) techniques. I also added a quick search algorithm to find documents containing a sequence of words based on the BoyerMoore agorithm.
+
+## architecture diagram
+![alt text](./architecture.png)
